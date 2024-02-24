@@ -1,6 +1,6 @@
 {
     "clientVersion": "0.5.1",
-    "modsVersion": "1.0.2",
-    "filesToUpdate": ["minecraft/mods/blockus-2.7.12+1.20.1.jar"],
+    "modsVersion": "1.0.3",
+    "filesToUpdate": ["minecraft/mods/endermanoverhaul-fabric-1.20.1-1.0.4.jar", "minecraft/mods/numismatic-overhaul-0.2.14+1.20.jar"],
     "folderToUpdate": []
 }
