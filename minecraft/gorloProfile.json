@@ -1,6 +1,6 @@
 {
     "clientVersion": "0.5.11",
     "modsVersion": "1.0.1",
-    "filesToUpdate": ['mods/blockus-2.7.12+1.20.1.jar'],
+    "filesToUpdate": ["mods/blockus-2.7.12+1.20.1.jar"],
     "folderToUpdate": []
 }
