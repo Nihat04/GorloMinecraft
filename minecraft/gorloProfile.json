@@ -1,6 +1,6 @@
 {
     "clientVersion": "0.5.1",
-    "modsVersion": "1.0.3",
+    "modsVersion": "1.0.4",
     "filesToUpdate": ["minecraft/mods/geckolib-fabric-1.20.1-4.4.2.jar"],
     "filesToDelete": ["minecraft/mods/geckolib-fabric-1.20.1-4.2.4.jar"],
     "folderToUpdate": []
