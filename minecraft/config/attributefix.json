@@ -858,6 +858,17 @@
         "value": 1024
       }
     },
+    "spellbladenext:converttoheal": {
+      "enabled": false,
+      "min": {
+        "default": 100,
+        "value": 100
+      },
+      "max": {
+        "default": 9999,
+        "value": 9999
+      }
+    },
     "zenith_attributes:cold_damage": {
       "enabled": false,
       "min": {

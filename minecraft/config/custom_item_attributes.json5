@@ -33,6 +33,22 @@
       "unbreakable": false
     },
     {
+      "item": "spellbladenext:monkeystaff",
+      "overrides_main_hand": [
+        {
+          "attribute": "minecraft:generic.attack_speed",
+          "value": -2,
+          "operation": "ADDITION"
+        }
+      ],
+      "overrides_off_hand": [],
+      "overrides_head": [],
+      "overrides_chest": [],
+      "overrides_legs": [],
+      "overrides_feet": [],
+      "unbreakable": false
+    },
+    {
       "item": "soulsweapons:crucible_sword",
       "overrides_main_hand": [
         {

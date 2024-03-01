@@ -11,6 +11,32 @@
 		}
 	}
 	id: "0EF4DA402B0EFC8E"
+	images: [
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "simplyswords:item/lichblade_eyes"
+			rotation: 0.0d
+			width: 0.016666666666666666d
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "botania:block/purple_mystical_flower"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.062159863945574045d
+			y: -3.5918367346938815d
+		}
+	]
 	order_index: 2
 	quest_links: [ ]
 	quests: [

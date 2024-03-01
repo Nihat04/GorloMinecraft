@@ -69,7 +69,11 @@
     "mythicupgrades:sapphire_sword",
     "mythicupgrades:sapphire_axe",
     "bewitchment:death_protection_poppet",
-    "archon:heaven_dial"
+    "archon:heaven_dial",
+    "spellbladenext:flickerstrikeoil",
+    "spellbladenext:eviscerateoil",
+    "spellbladenext:finalstrikeoil",
+    "aquamirae:divider"
   ],
   "only_disable_interactions": [
     "//Items here will not be able to be right-clicked (Interact)",

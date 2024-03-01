@@ -250,7 +250,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "spell_power:healing",
-					"value": 1,
+					"value": 0.5,
 					"operation": "multiply_total"
 				}
 			},

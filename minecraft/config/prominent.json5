@@ -15,10 +15,10 @@
   "mythic_enabled": true,
   "mythic_bosses": [
     "aquamirae:captain_cornelia",
-    "soulsweapons:chaos_monarch",
-    "soulsweapons:draugr_boss",
+    "adventurez:blackstone_golem",
+    "minecells:concierge",
     "graveyard:lich",
-    "archon:ayla"
+    "bosses_of_mass_destruction:obsidilith"
   ],
   // Health multiplier per mythic level. 0.25 = +25%
   "mythic_hp_multiplier": 0.25,

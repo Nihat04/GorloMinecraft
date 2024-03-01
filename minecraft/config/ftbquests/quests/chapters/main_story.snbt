@@ -1120,6 +1120,11 @@
 					item: "minecraft:end_crystal"
 					type: "item"
 				}
+				{
+					id: "6F816197EE03C601"
+					item: "minecraft:ender_pearl"
+					type: "item"
+				}
 			]
 			title: "&eAn Uncanny Ritual"
 			x: -9.5d
@@ -1219,7 +1224,7 @@
 			description: [
 				"&7&oRight before Null's imprisonment, it successfuly casted the spell. A big monstrous creature appeared from the rift"
 				""
-				"&3\"The Faceless One is here, another of the void heralds. It is the root of corruption"
+				"&3\"The Faceless One is here, another of the void heralds, and the root of corruption\""
 			]
 			hide: true
 			icon: "ftbquests:book"
